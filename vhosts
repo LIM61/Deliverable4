@@ -1,0 +1,19 @@
+
+Find Virtual Hosts (vhosts)
+ 
+Test date: 29-Jul-2014, 19:34:48 
+
+  
+Test parameters:  
+   - Target:     mygre.ets.org 
+   - DNS Enumeration:     false 
+
+  
+Result:  
+
+  
+
+Searching for virtual hosts on ip: 144.81.87.26 
+Found 3 virtual hosts. Validating DNS resolution ... 
+1 virtual hosts resolve to the given IP address 
+ 
